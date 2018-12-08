@@ -1,0 +1,11 @@
+Run 'make dijkstra-routing' to generate an executable file and run it.
+Adjacency list: Contains functions to obtain adjacency list from edge matrix. 
+Collaboration Curiosity: Models curiosity and collaboration of the nodes.
+dijkstra-routing: Main program which uses other models and visualizes the graph
+explorepaths: Returns all paths from source to destination
+final: not sure
+gfx: graphics library
+network generator: generates random networks
+network visualization: code for visualizing networks
+path-performance: Not used 
+performance-measures: Evaluates performances of various routes.
